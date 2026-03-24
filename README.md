@@ -43,4 +43,4 @@
 | 2024.03 ~ 2024.06 | 💊 [OCR 기반 알약 정보 제공 앱](https://github.com/shingigwon/Pill-Image-Recognition_APP) |
 | 2024.09 ~ 2024.12 | 🚗 [생체신호 기반 스마트 조명 시스템](https://github.com/shingigwon/Bio-Signal-Based_Smart-Lighting-System) |
 | 2025.07 ~ 2025.12 | 🎓 NHN 아카데미 Java Backend 7기 수료 |
-| 2025.10 ~ 2025.12 | 📚 [ChaekMate - 온라인 도서 쇼핑몰](https://github.com/nhnacademy-be11-1) |
+| 2025.10 ~ 2025.12 | 📚 [ChaekMate - 온라인 도서 쇼핑몰](https://github.com/shingigwon/chaekmate) |
