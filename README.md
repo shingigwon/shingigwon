@@ -31,7 +31,7 @@
 
 <br>
 
-## 📂 활동
+## 📂 Activity
 
 | 기간 | 내용 |
 |---|---|
@@ -45,10 +45,3 @@
 | 2024.09 ~ 2024.12 | 🚗 [생체신호 기반 스마트 조명 시스템](https://github.com/shingigwon/Bio-Signal-Based_Smart-Lighting-System) |
 | 2025.07 ~ 2025.12 | 🎓 NHN 아카데미 Java Backend 7기 수료 |
 | 2025.10 ~ 2025.12 | 📚 [ChaekMate - 온라인 도서 쇼핑몰](https://github.com/nhnacademy-be11-1) |
-
-<br>
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=shingigwon&show_icons=true&theme=dark&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shingigwon&layout=compact&theme=dark&hide_border=true" height="150"/>
