@@ -1,29 +1,33 @@
 # 안녕하세요, 신기권입니다 👋
 
-🔍 더 나은 구조와 방법을 끊임없이 고민하고, 직접 해결해나가는 개발자입니다.
-⚙️ 확장성과 유지보수성을 고려한 설계로 서비스의 완성도를 높이는 것을 중요하게 생각합니다.
-🌱 꾸준한 학습과 협업을 통해 함께 성장하는 개발자를 목표로 합니다.
+> 🔍 더 나은 구조와 방법을 끊임없이 고민하고, 직접 해결해나가는 개발자입니다.  
+> ⚙️ 확장성과 유지보수성을 고려한 설계로 서비스의 완성도를 높이는 것을 중요하게 생각합니다.  
+> 🌱 꾸준한 학습과 협업을 통해 함께 성장하는 개발자를 목표로 합니다.
 
-📧 rlrnjs2000@gmail.com
+<br>
+
+📧 Email: [rlrnjs2000@gmail.com](mailto:rlrnjs2000@gmail.com)
 
 <br>
 
 ## 💻 Tech Stack
 
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Html](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <br>
 
