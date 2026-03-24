@@ -34,13 +34,13 @@
 
 | 기간 | 내용 |
 |---|---|
-| 2022.09 ~ 2023.02 | 🎓 비트 고급과정 수료 |
+| 2022.09 ~ 2023.02 | 비트 고급과정 수료 |
 | 2022.12 ~ 2023.02 | [AI 코딩 챗봇](https://github.com/shingigwon/BitProject) |
 | 2023.03 ~ 2023.06 | [택배 물류 관리 시스템](https://github.com/shingigwon/delivery-management-system) |
 | 2023.03 ~ 2023.06 | [RFID 정품 위조 방지 보증서](https://github.com/shingigwon/RFID-AntiCounterfeit-System) |
-| 2023.06 ~ 2023.09 | 🎓 데이터청년캠퍼스 수료 |
+| 2023.06 ~ 2023.09 | 데이터청년캠퍼스 수료 |
 | 2023.09 ~ 2023.10 | [장애인 이동성 보장 서비스 앱](https://github.com/shingigwon/Data-Youth-Campus) |
 | 2024.03 ~ 2024.06 | [OCR 기반 알약 정보 제공 앱](https://github.com/shingigwon/Pill-Image-Recognition_APP) |
 | 2024.09 ~ 2024.12 | [생체신호 기반 스마트 조명 시스템](https://github.com/shingigwon/Bio-Signal-Based_Smart-Lighting-System) |
-| 2025.07 ~ 2025.12 | 🎓 NHN 아카데미 Java Backend 7기 수료 |
+| 2025.07 ~ 2025.12 | NHN 아카데미 Java Backend 7기 수료 |
 | 2025.10 ~ 2025.12 | [ChaekMate - 온라인 도서 쇼핑몰](https://github.com/shingigwon/chaekmate) |
